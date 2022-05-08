@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=udacityproject29b2f;AccountKey=6u1ZaUDvPv3z+EsRZhM9gLy7HqPjcuU3fe65PB3ZQMAnGUOJ+W2A4ghC9HcI1XaGZwxblMQsrKpg+AStaGgvEQ==;EndpointSuffix=core.windows.net",
+  "FUNCTIONS_WORKER_RUNTIME": "python",
+  "FUNCTIONS_EXTENSION_VERSION": "~4",
+  "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING":"DefaultEndpointsProtocol=https;AccountName=udacityproject29b2f;AccountKey=6u1ZaUDvPv3z+EsRZhM9gLy7HqPjcuU3fe65PB3ZQMAnGUOJ+W2A4ghC9HcI1XaGZwxblMQsrKpg+AStaGgvEQ==;EndpointSuffix=core.windows.net",
+  "WEBSITE_CONTENTSHARE":"udacityproject2nguyennbfunctionb04f",  
+  "MyDbConnection":"mongodb://udacityproject2cosmosaccount:utyxc5wEWCzUNt3HT1kDLe4XpH006MMgzPvSdjRk0BPB94HUk7M9Lq3gmCyhrrp3aC17h3lJZhhPMbMuyUBiRg==@udacityproject2cosmosaccount.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@udacityproject2cosmosaccount@"
+  }
+}
+  
